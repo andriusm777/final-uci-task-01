@@ -1,0 +1,8 @@
+{
+  "services/openvpn": {
+    "title": "OpenVPN",
+    "view": "vuci-app-openvpn-dev",
+    "files": ["/etc/config/openvpn"],
+    "index": 20
+  }
+}
